@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>sgdhd </title>
+<title>PHP文档 </title>
 </head>
 <body>
 <table width="500" border="1">
   <tr>
-    <td width="75">id</td>
+    <td width="75105">id</td>
     <td width="88">name</td>
     <td width="88">price</td>
     <td width="88">age</td>
@@ -43,13 +43,5 @@
     <td>28</td>
   </tr>
 </table>
-<?php
-  echo '世界级基督教的经济大小111!<br>';
-
-  echo '世界级基督教的经济大小222!<br>';
-  echo '世界级基督教的经济大小333!<br>';
-  echo '思考过可能是看过呢可能被4!<br>';
-?>
-<body>
 </body>
 </html>
